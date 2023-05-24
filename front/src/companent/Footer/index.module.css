@@ -1,0 +1,28 @@
+.esas{
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+
+.iceri{
+    width: 65%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items:center ;
+}
+.iconlar{
+    padding: 10px;
+    margin-left: 5px;
+    transition: .8s;
+    background-color: rgb(249,249,255);
+    color: black;
+}
+
+.iconlar:hover{
+    background-color: red;
+    color: white;
+}
